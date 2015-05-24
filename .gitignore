@@ -1,0 +1,8 @@
+*.DS_Store
+*.sublime-*
+.npm-debug.log
+node_modules
+temp
+tmp
+actual
+test/actual
